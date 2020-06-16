@@ -16,7 +16,7 @@ body {
 }
 
 #root {
-  background: salmon;
+  background-image: url("https://catwithmonocle.com/wp-content/uploads/2020/02/ac-new-horizons-nook-pattern-1280x1024-1.jpg");
   position: fixed;
   overflow: hidden;
   width: 100%;
@@ -77,10 +77,10 @@ h2:nth-of-type(2) {
 h5 {
   margin-top: -15px;
   margin-left: 2px;
-  color: lightgray;
+  color: black;
 }
 h5:last-of-type {
-  color: darkgray;
+  color: black;
 }
 
 .card > div {

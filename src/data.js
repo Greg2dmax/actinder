@@ -11,7 +11,8 @@ export default [
   },
   {
     pics: [
-      "https://pbs.twimg.com/profile_images/1250253142681358337/v9nE4RPL_400x400.jpg"
+      "https://pbs.twimg.com/profile_images/1250253142681358337/v9nE4RPL_400x400.jpg",
+      "https://i.ebayimg.com/images/g/Qf0AAOSwCOReqdSg/s-l300.jpg"
     ],
     name: "Marshal",
     age: 18,
